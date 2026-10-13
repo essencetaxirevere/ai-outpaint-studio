@@ -1,0 +1,1 @@
+from ai_outpaint_studio.config.loader import load_config  # noqa: F401
